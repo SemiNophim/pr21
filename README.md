@@ -10,6 +10,10 @@
 |Ryzen 5 7600|AMD|6C/12T, 3.8-5.1GHz|sAM5|65Вт|8370|
 > Головна причина вибору цього процесора це можливість покращення, цей процесор стоїть на найновішому сокеті, має 6 потужних ядер ядер і не є гарячим. Та навіть без оновлення цей камінчик ще дасть жару, ще причиною було те що в мене в старій зборці стоїть процесор на sAM4.
 
+#
+![Alt text](https://tpucdn.com/cpu-specs/images/chips/2959-front.jpg)
+#
+
 ### Відеокарта
 
 ##### Відеокарта AMD Radeon RX 6600  8GB GDDR6
@@ -18,6 +22,10 @@
 |:--:|:--:|:--:|:--:|:--:|
 |Radeon RX 6600|AMD|8GB GDDR6 14000MGz|PCI Express 4.0 x16 (x8)|10667|
 > Головна причина вибору цієї відеокарти є її ціна якість, так як я в минулій зборці робив з nvidia rtx і сильно великої користі від цієї технології я не помітив, а в сухій продуктивності відеокарти від amd виграють. Під цей процесор беруть більш потужну відеокарту, але через цінове питання я обрав цю.
+
+#
+![Alt text](https://content.rozetka.com.ua/goods/images/big/238358986.jpg)
+#
 
  ### Материнська плата
 
@@ -28,6 +36,10 @@
 |Prime B650M-K|Asus|mATX, B650, 2x DDR5, max. 96GB|sAM5|4779|
 > Головна причина цієї материнської плату знову через обмеження в ціні. З таким сокетом та типом пам'яті ця материнка добре підійде цій збірці.
 
+#
+![Alt text](https://content.rozetka.com.ua/goods/images/big/471647747.jpg)
+#
+
 ### Оперативна пам'ять
 
 ##### Пам'ять DDR5  16GB  5200MHz PC5-41600  (Kit of 2x8GB)  Kingston FURY Beast  (CL40-40-40)
@@ -36,6 +48,10 @@
 |:--:|:--:|:--:|:--:|:--:|
 |FURY Beast|Kingston|DDR5  16GB  5200MHz|(CL40-40-40)|2432|
 > Вибір пав на цю оперативку бо вона найдешевша серед усіх DDR5.
+
+#
+![Alt text](https://qwertyshop.ua/uploads/product/2022-7-13/magazin-qwertyshop-kingston-fury-beast-ddr5-4800mhz-16gb-2x8gb-kf548c.png)
+#
 
 ### Накопичувач
 
@@ -46,6 +62,10 @@
 |P3 Plus|Crucial|1TB, 5000/3600 MB/s|PCI-Express 4.0x4|2802|
 > Цей накопичувач за свої кошти просто скарб. Цілий терабайт швидкої пам'яті на PCIe 4.0.
 
+#
+![Alt text](https://content2.rozetka.com.ua/goods/images/big/293529054.jpg)
+#
+
 ### Блок живлення
 
 ##### Блок живлення  700Вт  Cooler Master Elite NEX W700 230V Black Mesh Cable
@@ -54,6 +74,10 @@
 |:--:|:--:|:--:|:--:|
 Elite NEX W700 230V|Cooler Master|700Вт|2801|
 > Цей блок живлення є з запасом для цієї система для можливості покращення.
+
+#
+![Alt text](https://content2.rozetka.com.ua/goods/images/big/439321655.jpg)
+#
 
 ### Башта охолодження
 
@@ -64,6 +88,10 @@ Elite NEX W700 230V|Cooler Master|700Вт|2801|
 |SE-214-X|ID-Cooling|TPD 180Вт|1700/1200/1151, AM5/AM4/FM2+/FM2/FM1/AM3+/AM3/AM2+/AM2|862|
 > Ця башта була вибрана тому що в комплекті з процесором не йде кулер. Тому за цю ціну і якість він є доволі не поганий вибір є вікно для покращення на більш гарячий процесор.
 
+#
+![Alt text](https://img.telemart.ua/435951-580317-product_popup/id-cooling-se-214-xt.jpg)
+#
+
 ### Корпус
 
 ##### Корпус Midi-Tower без БЖ  Cougar MX360 RGB  (3xUSB, 2*3.5"+2*2.5", 2*120 RGB Fans, скляне вікно)
@@ -72,6 +100,10 @@ Elite NEX W700 230V|Cooler Master|700Вт|2801|
 |:--:|:--:|:--:|:--:|:--:|
 |MX360 RGB|Cougar|3xUSB, 2*3.5"+2*2.5", 2*120 RGB Fans, скляне вікно|Midi-Tower|2295|
 > Цей корпус можна назвати оверпрайс, але до нього не треба докупляти ніяких вентиляторів додаткових бо є один вентилятор на видув і є один вентилятор на вдув, цього цілком достатньо.
+
+#
+![Alt text](https://cougargaming.com/_cgrwdr_/wwdpp/wp-content/uploads/2022/10/MX360-banner-s-1025.jpg)
+#
 
 ### Клавіатура
 
@@ -82,6 +114,10 @@ Elite NEX W700 230V|Cooler Master|700Вт|2801|
 |Starfall Rainbow Origin Blue|HATOR|Механіка, свічі сині|1649|
 > Цей корпус можна назвати оверпрайс, але до нього не треба докупляти ніяких вентиляторів додаткових бо є один вентилятор на видув і є один вентилятор на вдув, цього цілком достатньо.
 
+#
+![Alt text](https://img.telemart.ua/621278-768940/hator-starfall-rainbow-origin-blue-htk-609-bbg-blackgrey.png)
+#
+
 ### Монітор
 
 ##### Монітор 21.5" ACER EK220QH3bi (VA, 1 mc, 1920x1080, 100Hz, HDMI/VGA)
@@ -91,6 +127,10 @@ Elite NEX W700 230V|Cooler Master|700Вт|2801|
 |EK220QH3bi|ACER|21.5", 1920x1080, 100Hz, HDMI/VGA|3126|
 > Цей монітор був обраний через свою ціну, типом матриці частотою оновлення та розширенням, справжнє визначення ціна якість.
 
+#
+![Alt text](https://artline.ua/storage/images/products/28727/gallery/287673/600_gallery_172368042738848_0.webp)
+#
+
 ### Миша
 
 ##### Миша HATOR Quasar Essential Black, USB (HTM-400)
@@ -99,5 +139,9 @@ Elite NEX W700 230V|Cooler Master|700Вт|2801|
 |:--:|:--:|:--:|:--:|
 |Quasar Essential|HATOR|6200 DPI|781|
 > Цієї миші достатньо для такої збірки
+
+#
+![Alt text](https://click.ua/content/shop/products/80506/photos/myish-hator-quasar-essential-black-htm-400-usb-800x508-90c2.jpg)
+#
 
 # Загальна ціна 39789 грн
